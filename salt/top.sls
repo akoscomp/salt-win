@@ -1,0 +1,6 @@
+base:
+  '*':
+    - hostname
+    - reboot
+#    - deskwin
+
