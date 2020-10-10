@@ -1,5 +1,4 @@
-## This state is not completely tested
-deskwin:
+base_pkg_install:
   pkg.installed:
     - pkgs:
       - 7zip
@@ -11,6 +10,3 @@ deskwin:
       - chrome
       - atom
       - salt-minion-py3
-
-#  pkg.removed:
-#    - 

@@ -2,5 +2,7 @@ base:
   '*':
     - hostname
     - reboot
-#    - deskwin
+    - domain
+    - pkginstall
+#    - pkgremove
 
