@@ -3,10 +3,10 @@ base_pkg_install:
     - pkgs:
       - 7zip
       - openvpn
-      - npp64
+#      - npp
       - putty
-      - firefox_64
-      - git
-      - chrome
-      - atom
+      - firefox_x64
+#      - git
+#      - chrome
+#      - atom #something wrong
       - salt-minion-py3
